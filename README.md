@@ -3,6 +3,11 @@
 
 Udemy 【コンテナの実行方法を学び、Ruby on RailsやDjangoといったWebアプリケーションフレームワークを使用した環境構築について学びます。】
 
+```
+git config --global user.email "xxx@gxxx.com"
+git config --global user.name "halchil"
+```
+
 事前準備として、GitHubにpushするための設定を行う。
 GitHubの認証情報を永続的に保存する
 
